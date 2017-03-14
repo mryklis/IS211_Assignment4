@@ -125,7 +125,7 @@ if __name__ == '__main__':
         sum_c += c2
         i += 1
 
-    print 'Sequential Search took {} seconds to run, on average'.format(sum_a/100)
+    print 'Ordered Sequential Search took {} seconds to run, on average'.format(sum_a/100)
     print 'Ordered Sequential Search took {} seconds to run, on average'.format(sum_b/100)
     print 'Ordered Sequential Search took {} seconds to run, on average'.format(sum_c/100)
 
